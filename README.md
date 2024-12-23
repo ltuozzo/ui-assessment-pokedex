@@ -1,3 +1,3 @@
-# UI Assessment - Pokédex (Senior)
+# Important
 
-Requirements for this can be found on the home page of the app or [here](./src/README.md)
+Some packages seem to be outdated, and complain when installing Material UI. To avoid this issue, install the project using ``npm install --force``.
