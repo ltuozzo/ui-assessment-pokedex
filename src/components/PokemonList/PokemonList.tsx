@@ -74,10 +74,11 @@ const useStyles = createUseStyles(
       width: '100%',
       display: 'flex',
       flexDirection: 'column',
-      marginTop: '100px',
+      marginTop: '20px',
+      marginLeft: '20px',
     },
     input: {
-      marginLeft: 'auto',
+      marginLeft: '20px',
       marginRight: 'auto',
       width: '300px',
 
